@@ -12,6 +12,7 @@ struct TVMazeAppApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(BaseTVMazeClient.shared)
         }
     }
 }

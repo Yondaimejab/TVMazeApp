@@ -1,0 +1,15 @@
+{
+  "originHash" : "80151be6f6061edac8da3080ea13fd864a2103932c313954537ac4fd494bb0b1",
+  "pins" : [
+    {
+      "identity" : "networkextension",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Yondaimejab/NetworkExtension.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "e0a5f96c4b6382eeb97061721aa91114efde56a5"
+      }
+    }
+  ],
+  "version" : 3
+}
